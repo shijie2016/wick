@@ -22,3 +22,4 @@ dist
 .eggs
 
 .idea
+/wick.egg-info/
